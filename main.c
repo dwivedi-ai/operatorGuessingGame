@@ -69,6 +69,7 @@ int checkResult(int numberOfExpressions, int numbers[], char answers[], float re
 	else
 		return 0;
 }
+
 int displayResult(int flag)
 {
 	if (flag)
